@@ -4,8 +4,8 @@ https://www.termsandconditionsgenerator.com/
 ~~~
 https://www.termsandconditionsgenerator.com/live.php?token=c2WF3oavBQKVQ6tYoxa3mDfHQdzFr08E
 ~~~
-ข้อกำหนดและเงื่อนไข
-~~~
+ข้อกำหนดและเงื่อนไข HTML
+~~~html
 <h2><strong>Terms and Conditions</strong></h2>
 
 <p>Welcome to microtronic.biz!</p>
